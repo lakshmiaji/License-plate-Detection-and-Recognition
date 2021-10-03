@@ -1,11 +1,9 @@
-# License-plate-Detection-and-Recognition
-Detect and Recognize license plates from real time video.
+# License plate Detection and Recognition
 
-Detecting License plate and recognising them have a wide applications in thereal world.
+This repository includes detecting License plates of vehicles and recognising them using OCR from real time videos.
 
-In this repositorty, I use the basic methods for detecting License plate and recognising them using OCR(Optical Character Recognition).
-
-The input video will be converted to images, and the preprocessing methods are performed.
+Detecting License plate and recognising them have a wide applications in the real world.
+I used the basic methods for detecting License plate and recognising them using OCR(Optical Character Recognition). The input video will be converted to images, and the preprocessing methods are performed.
 
 1. Pre-processing
 
